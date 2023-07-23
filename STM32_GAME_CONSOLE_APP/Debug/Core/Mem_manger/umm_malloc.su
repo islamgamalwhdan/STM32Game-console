@@ -1,0 +1,13 @@
+../Core/Mem_manger/umm_malloc.c:133:17:umm_blocks	24	static
+../Core/Mem_manger/umm_malloc.c:206:13:umm_split_block	16	static
+../Core/Mem_manger/umm_malloc.c:219:13:umm_disconnect_from_free_list	16	static
+../Core/Mem_manger/umm_malloc.c:236:13:umm_assimilate_up	16	static
+../Core/Mem_manger/umm_malloc.c:266:17:umm_assimilate_down	16	static
+../Core/Mem_manger/umm_malloc.c:291:6:umm_init_heap	16	static
+../Core/Mem_manger/umm_malloc.c:343:6:umm_init	8	static
+../Core/Mem_manger/umm_malloc.c:354:13:umm_free_core	24	static
+../Core/Mem_manger/umm_malloc.c:404:6:umm_free	16	static
+../Core/Mem_manger/umm_malloc.c:431:14:umm_malloc_core	32	static
+../Core/Mem_manger/umm_malloc.c:542:7:umm_malloc	24	static
+../Core/Mem_manger/umm_malloc.c:575:7:umm_realloc	40	static
+../Core/Mem_manger/umm_malloc.c:765:7:umm_calloc	24	static

@@ -1,0 +1,13 @@
+../Game/game.c:34:5:main	8	static
+../Game/game.c:67:6:game_main	16	static
+../Game/game.c:139:6:Init_backGround	16	static
+../Game/game.c:150:6:GamePad_InputsUpdate	32	static
+../Game/game.c:155:6:TouchPad_InputsUpdate	24	static
+../Game/game.c:163:6:Asteriod_Init	296	static
+../Game/game.c:209:6:Asteriod_update	16	static
+../Game/game.c:223:6:fire	40	static
+../Game/game.c:239:6:Bullet_update	16	static
+../Game/game.c:253:6:Explosion_Init	48	static
+../Game/game.c:295:6:Explode	24	static
+../Game/game.c:301:6:Ship_Init	32	static
+../Game/game.c:337:6:ship_test	40	static

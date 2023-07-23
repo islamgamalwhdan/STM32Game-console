@@ -1,0 +1,3 @@
+../Core/Math/Math_lib.c:20:6:Init_TrigoTables	16	static
+../Core/Math/Math_lib.c:29:7:Fast_Sin	24	static
+../Core/Math/Math_lib.c:44:7:Fast_Cos	24	static

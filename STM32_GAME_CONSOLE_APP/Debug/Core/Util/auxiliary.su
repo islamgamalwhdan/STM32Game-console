@@ -1,0 +1,2 @@
+../Core/Util/auxiliary.c:11:6:Assign_smallFun	16	static
+../Core/Util/auxiliary.c:16:6:Get_AuxiliaryStatus	4	static

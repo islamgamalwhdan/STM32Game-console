@@ -1,0 +1,3 @@
+../Core/Input/gamepad.c:19:6:GamePad_Init	32	static
+../Core/Input/gamepad.c:43:16:GamePad_Read	32	static
+../Core/Input/gamepad.c:79:11:ReadCurrentState	24	static

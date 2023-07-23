@@ -1,0 +1,5 @@
+../Core/Graphics/GameEngine.c:47:7:BufferConfig	16	static
+../Core/Graphics/GameEngine.c:54:7:DrawSprite	96	static
+../Core/Graphics/GameEngine.c:114:6:Erase_Sprite	48	static
+../Core/Graphics/GameEngine.c:147:13:blit	40	static
+../Core/Graphics/GameEngine.c:165:5:rgb888torgb565	32	static

@@ -1,0 +1,4 @@
+../Bootloader/Bootloader.c:28:15:BL_CopyBinFile	328	static
+../Bootloader/Bootloader.c:78:6:BL_Go2App	24	static,ignoring_inline_asm
+../Bootloader/Bootloader.c:130:22:App_section_erase	40	static
+../Bootloader/Bootloader.c:156:22:write_data_to_flash_app	40	static

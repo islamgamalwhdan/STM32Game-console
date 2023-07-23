@@ -1,0 +1,9 @@
+../Core/HW_specific/MCU_init.c:35:6:MCU_Init	8	static
+../Core/HW_specific/MCU_init.c:102:13:SystemClock_Config	88	static
+../Core/HW_specific/MCU_init.c:152:6:MX_USART1_UART_Init	8	static
+../Core/HW_specific/MCU_init.c:170:6:MX_UART_DeInit	8	static
+../Core/HW_specific/MCU_init.c:174:13:MX_SPI4_Init	8	static
+../Core/HW_specific/MCU_init.c:195:6:MX_SPI_DeInit	8	static
+../Core/HW_specific/MCU_init.c:200:13:MX_RNG_Init	8	static
+../Core/HW_specific/MCU_init.c:210:13:MX_GPIO_Init	32	static
+../Core/HW_specific/MCU_init.c:240:6:Error_Handler	4	static

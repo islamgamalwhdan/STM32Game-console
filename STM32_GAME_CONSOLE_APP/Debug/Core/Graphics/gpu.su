@@ -1,0 +1,17 @@
+../Core/Graphics/gpu.c:49:13:LTDC_ClkConfig	56	static
+../Core/Graphics/gpu.c:63:7:GPU_BufferConfig	16	static
+../Core/Graphics/gpu.c:67:6:InitDisplay	16	static
+../Core/Graphics/gpu.c:90:6:CopyBMP	32	static
+../Core/Graphics/gpu.c:109:6:Fill_color_buff	32	static
+../Core/Graphics/gpu.c:127:6:Draw_Pixel	32	static
+../Core/Graphics/gpu.c:135:6:renderChr	40	static
+../Core/Graphics/gpu.c:151:6:renderStr	32	static
+../Core/Graphics/gpu.c:205:6:FlipBuffers	16	static
+../Core/Graphics/gpu.c:218:10:Is_Render_cplt	4	static
+../Core/Graphics/gpu.c:223:6:Render_flush	4	static
+../Core/Graphics/gpu.c:231:13:DMA2D_wait	16	static
+../Core/Graphics/gpu.c:241:6:clearScreen	24	static
+../Core/Graphics/gpu.c:248:13:Fill_Backgroud_Color	32	static
+../Core/Graphics/gpu.c:268:6:LTDC_Init	112	static
+../Core/Graphics/gpu.c:343:6:HAL_DMA2D_MspInit	24	static
+../Core/Graphics/gpu.c:366:6:HAL_LTDC_MspInit	64	static

@@ -1,0 +1,12 @@
+../Core/Src/Demos/Flappybird/main.c:33:5:main	8	static
+../Core/Src/Demos/Flappybird/main.c:61:6:game_main	8	static
+../Core/Src/Demos/Flappybird/main.c:161:6:Init_backGround	16	static
+../Core/Src/Demos/Flappybird/main.c:172:6:GamePad_InputsUpdate	32	static
+../Core/Src/Demos/Flappybird/main.c:177:6:TouchPad_InputsUpdate	24	static
+../Core/Src/Demos/Flappybird/main.c:186:6:fbird_Init	24	static
+../Core/Src/Demos/Flappybird/main.c:221:6:BirdUpdatePostion	4	static
+../Core/Src/Demos/Flappybird/main.c:236:6:Init_pipes	16	static
+../Core/Src/Demos/Flappybird/main.c:259:6:update_pipes	8	static
+../Core/Src/Demos/Flappybird/main.c:287:6:process_input	4	static
+../Core/Src/Demos/Flappybird/main.c:303:6:Kill_Sprites	4	static
+../Core/Src/Demos/Flappybird/main.c:314:6:Error_Handler	4	static

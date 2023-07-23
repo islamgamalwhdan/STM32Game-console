@@ -1,0 +1,3 @@
+../Core/Input/touchpad.c:24:6:touchpad_init	8	static
+../Core/Input/touchpad.c:30:10:touchpad_read	24	static
+../Core/Input/touchpad.c:60:16:touchpad_get_xy	32	static

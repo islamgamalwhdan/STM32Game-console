@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<simulation cycles_per_ms="1000000" duration="1050000000" etm="wcet">
+	<sched class="simso.schedulers.FP" overhead="0" overhead_activate="0" overhead_terminate="0"/>
+	<caches memory_access_time="100"/>
+	<processors>
+		<processor cl_overhead="0" cs_overhead="0" id="1" name="CPU 1" speed="1.0"/>
+	</processors>
+	<tasks>
+		<field name="priority" type="int"/>
+		<task ACET="0" WCET="0.05" abort_on_miss="no" activationDate="10.0" base_cpi="1.0" deadline="10.0" et_stddev="0" id="1" instructions="0" list_activation_dates="" mix="0.5" name="Gyro" period="10" preemption_cost="0" priority="0" task_type="Periodic"/>
+		<task ACET="0" WCET="1.0" abort_on_miss="no" activationDate="30.0" base_cpi="1.0" deadline="30.0" et_stddev="0" id="2" instructions="0" list_activation_dates="" mix="0.5" name="TouchPAD" period="10" preemption_cost="0" priority="0" task_type="Periodic"/>
+		<task ACET="0" WCET="0.05" abort_on_miss="no" activationDate="20.0" base_cpi="1.0" deadline="20.0" et_stddev="0" id="3" instructions="0" list_activation_dates="" mix="0.5" name="GAMPAD" period="10" preemption_cost="0" priority="0" task_type="Periodic"/>
+		<task ACET="0" WCET="1.0" abort_on_miss="no" activationDate="17.0" base_cpi="1.0" deadline="17.0" et_stddev="0" id="4" instructions="0" list_activation_dates="" mix="0.5" name="Main_GAME" period="10" preemption_cost="0" priority="0" task_type="Periodic"/>
+	</tasks>
+</simulation>

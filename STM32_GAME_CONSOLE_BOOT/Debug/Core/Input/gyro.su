@@ -1,0 +1,5 @@
+../Core/Input/gyro.c:55:9:GYRO_Init	24	static
+../Core/Input/gyro.c:107:6:GYRO_Reset	8	static
+../Core/Input/gyro.c:112:6:GYRO_GetXYZ	16	static
+../Core/Input/gyro.c:118:6:GYRO_Calibaration	96	static
+../Core/Input/gyro.c:215:6:GYRO_AngleXYZ	24	static

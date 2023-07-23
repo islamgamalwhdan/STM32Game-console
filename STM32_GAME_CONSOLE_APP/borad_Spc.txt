@@ -1,0 +1,12 @@
+On-board ST-LINK/V2-1 
+Supply through ST-Link USB 
+External Supply : 3V and 5V 
+JP3 (Idd) for current measurement 
+64 Mbit SDRAM (1 Mbit x 16-bit x 4-bank) 
+High-Speed USB OTG with micro-AB Connector 
+TFT LCD 2.4" QVGA (240 x 320), 262K colors RGB 
+Motion sensor, 3-axis digital output gyroscope (L3GD20) 
+Two Push-buttons: User and Reset 
+Six LEDs: USB COM, 3.3 V Power, user (Green/Red), USB-OTG (Green/Red) 
+Extension header: (4 x 32) with 2.54 mm Pitch 
+Discovery Board Formfactor 

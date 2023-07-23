@@ -1,0 +1,4 @@
+../Core/Scheduler/Scheduler.c:42:6:SCH_AddHandlerTable	16	static
+../Core/Scheduler/Scheduler.c:48:6:Delete_Task	24	static
+../Core/Scheduler/Scheduler.c:59:6:Setup_Scheduler	4	static
+../Core/Scheduler/Scheduler.c:63:6:SCH_Dispatch	16	static
